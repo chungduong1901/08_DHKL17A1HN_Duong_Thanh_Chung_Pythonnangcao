@@ -1,0 +1,8 @@
+<products>
+    <product>
+        <name>Đường</name>
+            <price>500</price>
+        <quantity>50</quantity>
+        <units>kg</units>
+    </product>
+</products>
